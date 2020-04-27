@@ -1,0 +1,25 @@
+{
+  "url" : "https://opensource-demo.orangehrmlive.com/",
+  "username" : "Admin",
+  "password" : "admin123",
+  "username1" : "Admin",
+  "password1" : "admin123",
+  "username2" : "test",
+  "password2" : "test123",
+  "name" : "user1",
+  "email": "testuser1@gmail.com",
+  "pwd": "protractor",
+
+  "locators":
+  {
+    "usernameId" : "txtUsername",
+    "passwordId" : "txtPassword",
+    "loginBtnId" : "btnLogin",
+    "welcomeTxtId" :"welcome",
+    "logoutXpath" : "//a[contains(text(),'Logout')]"
+  }
+}
+
+
+
+

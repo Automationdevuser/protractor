@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d061b9ff-98a1-4991-a75c-64941588c55e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGrqKhMIFE0TpHgnwjgY5uIXGS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.protractor.protractor_package" value="/usr/local/lib/node_modules/protractor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/specs" />
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/conf/conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="/usr/local/lib/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d061b9ff-98a1-4991-a75c-64941588c55e" name="Default Changelist" comment="" />
+      <created>1584476462189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584476462189</updated>
+      <workItem from="1584476464477" duration="2092000" />
+      <workItem from="1584517899958" duration="185000" />
+      <workItem from="1585194261647" duration="3388000" />
+      <workItem from="1585547719681" duration="4005000" />
+      <workItem from="1585711609623" duration="2118000" />
+      <workItem from="1585719257061" duration="2949000" />
+      <workItem from="1585811442274" duration="589000" />
+      <workItem from="1585881942557" duration="2035000" />
+      <workItem from="1585892376541" duration="3048000" />
+      <workItem from="1585905632372" duration="483000" />
+      <workItem from="1586313099987" duration="154000" />
+      <workItem from="1586325323135" duration="2988000" />
+      <workItem from="1586403618991" duration="2584000" />
+      <workItem from="1586411375586" duration="2255000" />
+      <workItem from="1586757197133" duration="3746000" />
+      <workItem from="1586843421764" duration="3560000" />
+      <workItem from="1587089002056" duration="1295000" />
+      <workItem from="1587090434648" duration="81000" />
+      <workItem from="1587090618024" duration="5000" />
+      <workItem from="1587090636759" duration="155000" />
+      <workItem from="1587091545814" duration="129000" />
+      <workItem from="1587094991460" duration="1310000" />
+      <workItem from="1587101523965" duration="375000" />
+      <workItem from="1587103342336" duration="626000" />
+      <workItem from="1587105173077" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584478532139">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961@0.23.1680.961" timestamp="1584478532139" />
+    <state x="341" y="142" key="SettingsEditor" timestamp="1585723371244">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="341" y="142" key="SettingsEditor/0.23.1680.959@0.23.1680.959" timestamp="1585723371244" />
+    <state x="341" y="142" key="SettingsEditor/0.23.1680.961@0.23.1680.961" timestamp="1584509739153" />
+    <state x="505" y="241" width="670" height="667" key="search.everywhere.popup" timestamp="1586844484191">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="505" y="241" width="670" height="667" key="search.everywhere.popup/0.23.1680.959@0.23.1680.959" timestamp="1586844484191" />
+    <state x="505" y="244" width="670" height="676" key="search.everywhere.popup/0.23.1680.972@0.23.1680.972" timestamp="1584513191988" />
+  </component>
+</project>
